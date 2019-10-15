@@ -2,6 +2,11 @@
 // this is on the master branch
 // add news on the master branch
 // another user push new code
+// in the testing branch
+// new add on the testing branch
+// test the patch
+// on the serverfix branch
+// add the ruby-client branch
 #include<stdio.h>
 #include<stdlib.h>
 
