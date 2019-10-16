@@ -1,6 +1,7 @@
 // this is a test git file
 // this is on the master branch
 // add news on the master branch
+// another user push new code
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -17,13 +18,6 @@ char *strcpy(char *dest,const char *src)
 1、判断是否为空指针
 2、增加中间变量，保证dest的首地址
 3、逐个复制，在u遇到结束符终止
-4、finish the copy
-4、finish the copy
-4、finish the copy
-4、finish the copy
-4、finish the copy
-4、finish the copy
-4、finish the copy
 4、finish the copy
 int main()
 {
