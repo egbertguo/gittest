@@ -2,6 +2,7 @@
 // this is on the master branch
 // add news on the master branch
 // another user push new code
+// on the serverfix branch
 // in the testing branch
 // new add on the testing branch
 // test the patch
